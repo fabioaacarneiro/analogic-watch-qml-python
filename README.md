@@ -1,4 +1,4 @@
 # analogic-watch-qml-python
-Simple project tor learning purpose
+Simple project for learning purpose
 
 ![imagem do projeto](./images/analogic%20watch.png)
